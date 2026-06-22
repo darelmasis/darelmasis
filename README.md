@@ -1,110 +1,131 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# Hi, I'm Darrel Masis 👋
 
-### 🚀 Desarrollador Full Stack | Apasionado por el código limpio
+### 🚀 Web Developer | Systems Builder | Business Automation Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/twitter/follow/TU_USUARIO?style=social)](https://twitter.com/TU_USUARIO)
+![GitHub followers](https://img.shields.io/github/followers/darrelmasis?style=social)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-- 🔭 Actualmente trabajando en **[proyecto actual]**
-- 🌱 Aprendiendo **[tecnología nueva]**
-- 👯 Busco colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **[tus especialidades]**
-- 📫 Contáctame: **tu@email.com**
-- ⚡ Dato curioso: **[algo interesante sobre ti]**
+I'm a web developer from Nicaragua 🇳🇮 passionate about building software that solves real operational problems.
+
+I enjoy creating scalable systems for:
+
+* Inventory management
+* Accounting workflows
+* Business automation
+* Offline-first applications
+* Data-driven operations
+
+My long-term goal is simple:
+
+> Become a world-class developer known for writing clean, scalable, and maintainable code.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🔭 Current Focus
 
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+* Building modern web applications
+* Improving software architecture skills
+* Writing cleaner and more maintainable code
+* Designing better database schemas
+* Learning advanced frontend architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
----
+### Database
 
-## 📊 Mis estadísticas de GitHub
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
-</div>
+### Tools
 
-### 🔥 Racha de contribuciones
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" />
-</div>
-
-### 🏆 Trofeos de GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&row=1&column=7" />
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 🌟 Proyectos destacados
+## 💡 What Makes Me Different
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🚀 Proyecto 1</h3>
-      <p>Descripción breve del proyecto</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-      </p>
-      <a href="https://github.com/TU_USUARIO/proyecto1">Ver proyecto →</a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💡 Proyecto 2</h3>
-      <p>Descripción breve del proyecto</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
-      </p>
-      <a href="https://github.com/TU_USUARIO/proyecto2">Ver proyecto →</a>
-    </td>
-  </tr>
-</table>
+I don't just build websites.
+
+I like building **systems**.
+
+I enjoy understanding business processes and translating them into software that is:
+
+* Efficient
+* Reliable
+* Easy to maintain
+* Built for real-world use
+
+That includes everything from database design to frontend UX.
 
 ---
 
-## 📝 Blog / Artículos recientes
+## 📊 GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-- Aquí aparecerán tus posts si usas la acción de GitHub Actions
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎮 Snake game (animación de contribuciones)
-
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrelmasis\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrelmasis\&layout=compact\&theme=radical)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge" />
-  <br>
-  <strong>⭐ ¡Gracias por visitar mi perfil! ⭐</strong>
-</div>
+## 🚀 Projects I Love Building
+
+### Business Systems
+
+* Inventory systems
+* Accounting tools
+* Reporting dashboards
+
+### Offline-First Applications
+
+* Rural operations
+* Farm management
+* Field data collection
+
+### Automation Tools
+
+* Smart spreadsheets
+* Formula systems
+* Workflow optimization
+
+---
+
+## 📚 Currently Learning
+
+* Software architecture
+* Design patterns
+* Scalable frontend patterns
+* Sync conflict resolution
+* Offline-first engineering
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy optimizing processes so much that even spreadsheets become engineering projects.
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/darrelmasis
