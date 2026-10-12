@@ -64,27 +64,10 @@ My long-term goal is simple:
 
 ---
 
-## 💡 What Makes Me Different
-
-I don't just build websites.
-
-I like building **systems**.
-
-I enjoy understanding business processes and translating them into software that is:
-
-* Efficient
-* Reliable
-* Easy to maintain
-* Built for real-world use
-
-That includes everything from database design to frontend UX.
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrelmasis\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrelmasis\&layout=compact\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darelmasis\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darelmasis\&layout=compact\&theme=radical)
 
 ---
 
