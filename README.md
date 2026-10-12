@@ -1,81 +1,59 @@
-# Hi, I'm Darrel Masis 👋
+# Hola, soy Darrel Masís 👋
 
-### 🚀 Web Developer | Systems Builder | Business Automation Enthusiast
+### Desarrollador Full Stack | Power BI Developer
 
-![GitHub followers](https://img.shields.io/github/followers/darelmasis?style=social)
+Soy desarrollador de Nicaragua 🇳🇮 y disfruto crear software que resuelva problemas reales.
 
----
+Mi interés principal está en la intersección entre desarrollo, datos y operaciones, construyendo herramientas que ayuden a las empresas a trabajar de forma más eficiente.
 
-## 🧑‍💻 About Me
+Actualmente trabajo en proyectos relacionados con:
 
-I'm a web developer from Nicaragua 🇳🇮 passionate about building software that solves real operational problems.
-
-I enjoy creating scalable systems for:
-
-* Inventory management
-* Accounting workflows
-* Business automation
-* Offline-first applications
-* Data-driven operations
-
-My long-term goal is simple:
-
-> Become a world-class developer known for writing clean, scalable, and maintainable code.
+- Automatización de procesos empresariales
+- Dashboards e indicadores en Power BI
+- Modelado de datos y DAX
+- Sistemas de inventario y control operativo
+- Aplicaciones web con React y Node.js
+- Análisis y visualización de datos
 
 ---
 
-## 🔭 Current Focus
+## Actualmente aprendiendo
 
-* Building modern web applications
-* Improving software architecture skills
-* Writing cleaner and more maintainable code
-* Designing better database schemas
-* Learning advanced frontend architecture
+- Arquitectura de software
+- Diseño de bases de datos
+- Patrones de diseño
+- Desarrollo frontend avanzado
+- Buenas prácticas para aplicaciones escalables
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+## Tecnologías
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+React • TypeScript • Vite • TailwindCSS
 
 ### Backend
+Node.js • APIs REST
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+### Datos y BI
+Power BI • DAX • Excel • Modelado de Datos
 
-### Database
+### Bases de Datos
+MongoDB
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### Herramientas
+Git • GitHub • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## Filosofía
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darelmasis\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darelmasis\&layout=compact\&theme=radical)
+Me gusta entender cómo funciona un proceso antes de programarlo.
 
-
-## ⚡ Fun Fact
-
-I enjoy optimizing processes so much that even spreadsheets become engineering projects.
+Creo que el mejor software no es el más complejo, sino el que elimina trabajo innecesario y permite tomar mejores decisiones con los datos disponibles.
 
 ---
 
-## 📫 Connect
+## Contacto
 
 GitHub: https://github.com/darrelmasis
