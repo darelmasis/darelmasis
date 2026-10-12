@@ -69,39 +69,6 @@ My long-term goal is simple:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darelmasis\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darelmasis\&layout=compact\&theme=radical)
 
----
-
-## 🚀 Projects I Love Building
-
-### Business Systems
-
-* Inventory systems
-* Accounting tools
-* Reporting dashboards
-
-### Offline-First Applications
-
-* Rural operations
-* Farm management
-* Field data collection
-
-### Automation Tools
-
-* Smart spreadsheets
-* Formula systems
-* Workflow optimization
-
----
-
-## 📚 Currently Learning
-
-* Software architecture
-* Design patterns
-* Scalable frontend patterns
-* Sync conflict resolution
-* Offline-first engineering
-
----
 
 ## ⚡ Fun Fact
 
