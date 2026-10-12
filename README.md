@@ -2,7 +2,7 @@
 
 ### 🚀 Web Developer | Systems Builder | Business Automation Enthusiast
 
-![GitHub followers](https://img.shields.io/github/followers/darrelmasis?style=social)
+![GitHub followers](https://img.shields.io/github/followers/darelmasis?style=social)
 
 ---
 
