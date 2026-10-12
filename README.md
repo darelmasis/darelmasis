@@ -1,6 +1,6 @@
 # Hola, soy Darrel Masís 👋
 
-### Desarrollador Web | Power BI Developer
+### Desarrollador Web | Power BI
 
 ## Filosofía
 
