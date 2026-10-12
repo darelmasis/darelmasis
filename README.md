@@ -10,4 +10,4 @@ Me gusta entender cómo funciona un proceso antes de programarlo.
 
 ## Contacto
 
-GitHub: https://github.com/darrelmasis
+GitHub: https://github.com/darelmasis
